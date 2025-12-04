@@ -1,6 +1,6 @@
 🌟 Welcome to My GitHub
 
-Hi, I’m Abdullah Almuhaini — a first-year Computer Science student who is just starting to learn how to code. This page is where I keep my progress and share the things I’m learning.
+Hi, I’m Abdullah Almuhaini  a first-year Computer Science student who is just starting to learn how to code. This page is where I keep my progress and share the things I’m learning.
 
 👨‍🎓 About Me
 
