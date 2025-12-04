@@ -1,34 +1,37 @@
-Hi, I’m Abdullah Almuhaini. I’m a first-year Computer Science student, and I’m just starting my journey in coding. I made this GitHub to share my progress and learn as I go.
+🌟 Welcome to My GitHub
 
-About Me
+Hi, I’m Abdullah Almuhaini — a first-year Computer Science student who is just starting to learn how to code. This page is where I keep my progress and share the things I’m learning.
 
-I’m new to programming, so I’m learning everything from the ground up. I like trying small exercises, practicing new ideas, and improving step by step. I’m not perfect at coding yet, but I’m doing my best and enjoying the process.
+👨‍🎓 About Me
 
-What I’m Learning
+I’m new to programming, and I’m learning step by step. I like trying small tasks, practicing, and slowly understanding how code works. I’m not an expert yet, but I’m excited to improve over time.
 
-Basic programming skills
+📘 What I’m Learning Right Now
 
-How to use Git and GitHub
+Basic coding
 
-Simple problem-solving in code
+Git and GitHub
+
+Simple problem-solving
 
 Python and basic web concepts
 
-Projects
+🧪 Projects
 
-Most of my projects are small practice tasks from university. I’ll add more work as I learn and feel more confident.
+Right now, most of my projects are small practice exercises from my classes.
+As I learn more, I will upload better and more complete projects.
 
-My Goals
+🎯 My Goals
 
-Get better at writing code
+Get better at coding
 
-Build simple projects on my own
+Make simple projects by myself
 
-Understand programming more clearly
+Build more confidence
 
-Improve little by little throughout the year
+Keep learning little by little
 
-Contact
+📩 Contact Me
 
 Email: aboody721tt@gmail.com
 
